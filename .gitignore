@@ -62,5 +62,5 @@ docker-command.txt
 *.iml
 target/
 package-lock.json
-*.classpath
-*.project
+.classpath
+.project
